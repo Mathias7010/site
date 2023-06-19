@@ -1,0 +1,61 @@
+body {
+  background-color: white;
+  font-family: Arial, sans-serif;
+}
+
+header {
+  background-color: grey;
+  color: white;
+  padding: 10px;
+  text-align: center;
+}
+
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+nav ul li {
+  display: inline;
+  margin-right: 10px;
+}
+
+nav ul li a {
+  color: white;
+  text-decoration: none;
+}
+
+article {
+  margin: 20px;
+}
+
+figure {
+  margin: 10px 0;
+}
+
+figcaption {
+  font-style: italic;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+table th, table td {
+  border: 1px solid grey;
+  padding: 8px;
+}
+
+table th {
+  background-color: grey;
+  color: white;
+}
+
+footer {
+  background-color: grey;
+  color: w;
+  padding: 10px;
+  text-align: center;
+}
